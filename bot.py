@@ -6,7 +6,7 @@ from aiogram.types import Message
 
 load_dotenv()
 # 🔑 Вставьте свой токен
-TOKEN = os.getenv("TOKEN")
+TOKEN = "7530075380:AAHW37SyfGCu6kPJnZHLgVqBLeUElYgSqSs"
 GROUP_ID = -4663207006  # ID вашей группы
 
 bot = Bot(token=TOKEN)
